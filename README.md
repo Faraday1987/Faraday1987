@@ -7,12 +7,13 @@
 ###
 
 <p align="left">I am currently participating in the Oracle ONE project at Alura Latam.</p>
+<div align="left">
+  <img height="50" src="https://cdn2.gnarususercontent.com.br/6/449886/ad7c0ade-9666-444f-b034-a5167845f978.png"  />
+</div>
+
 
 ###
 
-<div align="center">
-  <img height="20" src="https://app.aluracursos.com/form-one/assets/images/logo-aluralatam-oracle.svg"  />
-</div>
 
 ###
 
