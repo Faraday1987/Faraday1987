@@ -66,10 +66,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/faraday1987/faraday1987/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/faraday1987/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  />
