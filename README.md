@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="100" src="https://app.aluracursos.com/form-one/assets/images/logo-aluralatam-oracle.svg"  />
+  <img height="20" src="https://app.aluracursos.com/form-one/assets/images/logo-aluralatam-oracle.svg"  />
 </div>
 
 ###
