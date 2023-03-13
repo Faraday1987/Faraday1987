@@ -80,6 +80,6 @@
 
 ###
 
-<p align="center">❤️  I'd love Flash, AS3, AIR until the last of my days.</p>
+<p align="center">❤️  I'm love Flash, AS3, AIR until the last of my days.</p>
 
 ###
