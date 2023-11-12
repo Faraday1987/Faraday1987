@@ -2,18 +2,7 @@
 
 ###
 
-<p align="left">My name is Faraday and I am a Front-End Developer, I live in Mexico City, I am currently participating in the Oracle ONE project at Alura Latam.</p>
-
-###
-
-<p align="left">I am currently participating in the Oracle ONE project at Alura Latam.</p>
-<div align="left">
-  <img height="50" src="https://cdn2.gnarususercontent.com.br/6/449886/ad7c0ade-9666-444f-b034-a5167845f978.png"  />
-</div>
-
-
-###
-
+<p align="left">My name is Faraday, and I am a Front-End Developer. I live in Mexico City, and I am currently studying to become a dentist. I aspire to integrate software engineering into dental technologies, combining different environments to create something that serves humanity. I enjoy learning about everything.</p>
 
 ###
 
@@ -21,7 +10,14 @@
 
 ###
 
-<p align="left">✨ Creating bugs since the years when Flash and Actionscript existed.<br>📚 I always find myself learning new technologies.<br>🛸 Want to get in touch?<br>❤️ I'd love to hear from you.<br>🌱 I am interested in opportunities such as Front-End, BackEnd with Golang, as well as personal project development.<br>💬 However, if you have another request or question, contact me.</p>
+<p align="left">✨ Creating bugs since the years when Flash and Actionscript existed.
+<br>📚 I always find myself learning new technologies.
+<br> 🦷 I am studying to become a dentist.
+<br>🛸 Want to get in touch?
+<br>❤️ I'd love to hear from you.
+<br>🌱 I am interested in opportunities such as Front-End, BackEnd with Golang, as well as personal project development.
+<br>💬 However, if you have another request or question, contact me.</p>
+
 
 ###
 
