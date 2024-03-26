@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">My name is Faraday, and I am a Front-End Developer. I live in Mexico City, and I am currently studying to become a dentist. I aspire to integrate software engineering into dental technologies, combining different environments to create something that serves humanity. I enjoy learning about everything.</p>
+<p align="left">I am a person who is always looking for change and constant improvement in a self-taught way and I am passionate about solving problems and finding innovative solutions, because it makes me feel useful, important and valued.
+
+People who know me consider me self-demanding, tenacious and firm character; With great ability to listen and understand others; I always offer knowledge and experience to improve or develop their projects.</p>
 
 ###
 
